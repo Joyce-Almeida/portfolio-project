@@ -109,3 +109,19 @@ p {
   margin: 0;
   color: #272142;
 }
+.contact-container {
+  background-color: #f9f7fe;
+  padding: 50px;
+  border-radius: 15px;
+}
+.contact-email {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: bolder;
+  margin: 0;
+  color: #272142;
+  font-size: 30px;
+  text-decoration: none;
+}
