@@ -42,7 +42,8 @@ h4 {
 
 .btn-branding {
   font-family: "poppins", sans-serif;
-  background-color: #6c63ff;
+  background-color: #44d9e6;
+
   color: white;
   padding: 20px 45px;
   font-size: 18px;
@@ -51,6 +52,7 @@ h4 {
   font-family: "poppins", sans-serif;
   background-color: white;
   color: #6c63ff;
+
   padding: 20px 45px;
   font-size: 16px;
   font-weight: 500;
