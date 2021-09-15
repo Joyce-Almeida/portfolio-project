@@ -58,6 +58,8 @@ h4 {
 }
 .app-description {
   padding: 120px 60px 0;
+  position: relative;
+  bottom: 50px;
 }
 @media (max-width: 900px) {
   h1 {
