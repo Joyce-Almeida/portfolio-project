@@ -211,3 +211,7 @@ h4 {
   padding: 30px 120px;
   border-radius: 10px;
 }
+.code{
+  text-decoration: none;
+  color:#6c63ff
+}
